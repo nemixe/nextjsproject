@@ -23,6 +23,7 @@
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
+    "styled-jsx": "^3.0.2",
     "sw-precache-webpack-plugin": "^0.11.5"
   },
   "devDependencies": {
